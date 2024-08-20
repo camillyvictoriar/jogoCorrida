@@ -18,17 +18,11 @@ O objetivo deste projeto é ilustrar como gerenciar concorrência utilizando:
    git clone https://github.com/camillyvictoriar/jogoCorrida.git
    ```
 
-2. **Acesse o Diretório do Projeto:**
-
-   ```bash
-   cd SEU_REPOSITORIO
-   ```
-
-3. **Instale as Dependências:**
+2. **Instale as Dependências:**
 
    Certifique-se de que você tem o Python 3.11.9 instalado. Este projeto não possui dependências externas além da biblioteca padrão do Python.
 
-4. **Execute o Projeto:**
+3. **Execute o Projeto:**
 
    ```bash
    Corrida de pessoas.py
