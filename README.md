@@ -15,7 +15,7 @@ O objetivo deste projeto é ilustrar como gerenciar concorrência utilizando:
 1. **Clone o Repositório:**
 
    ```bash
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+   git clone https://github.com/camillyvictoriar/jogoCorrida.git
    ```
 
 2. **Acesse o Diretório do Projeto:**
